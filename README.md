@@ -1,16 +1,41 @@
-## Hi there 👋
+## Heyy👋🏻, I'm Vighnesh Maripeddi  
+### Aspiring Data Analyst | BSc IT Student | Beginner in Machine Learning  
 
-<!--
-**vighnesh-maripeddi/vighnesh-maripeddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year BSc IT student passionate about transforming data into meaningful insights.  
+I have a strong interest in Data Analytics and I'm also exploring Machine Learning fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills :-
+- **Data Analytics:** Power BI (Dashboards), Excel  
+- **Programming:** Python (basics), SQL (queries, joins)  
+- **Machine Learning:** Understanding of Supervised & Unsupervised Learning  
+- **Concepts:** Data cleaning, EDA, data visualization  
+
+---
+
+## Tools I Use:-  
+Power BI • Python • SQL • Excel • Jupyter Notebook • VS Code  
+
+---
+
+## Projects:-
+- Power BI Dashboards   
+- ML Learning Notes (coming soon)  
+
+---
+
+## Current Focus:- 
+- Improving Python for ML  
+- Learning DAX & Power Query  
+- Building more dashboards  
+- Practicing ML algorithms like Regression & Clustering  
+
+---
+
+## Contact:-  
+- **Email:** your email  
+- **LinkedIn:**  
+
+
+
