@@ -1,7 +1,7 @@
 ## Heyy👋🏻, I'm Vighnesh Maripeddi  
 ### Aspiring Data Analyst | BSc IT Student | Beginner in Machine Learning  
 
-<p align="center"> <img src="https://img.shields.io/badge/Data%20Analyst%20Learner-Blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/BSc%20IT%20Student-Green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Working%20With%20Real%20Data-Orange?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Analyst%20Learner-Cyan?style=for-the-badge" /> <img src="https://img.shields.io/badge/BSc%20IT%20Student-Green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Working%20With%20Real%20Data-Purple?style=for-the-badge" /> </p>
 
 I’m an aspiring Data Analyst who believes in learning through real datasets, hands-on projects, and continuous improvement.
 Currently exploring how data can answer business questions using Python, SQL, and Power BI.
