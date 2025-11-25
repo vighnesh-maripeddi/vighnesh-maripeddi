@@ -61,8 +61,8 @@ ML Basics → Supervised & Unsupervised learning
 
 📬 Connect With Me
 
-📧 Email: add-your-email
+📧 Email: maripeddivighnesh@gmail.com
 
-🔗 LinkedIn: add-your-link
+🔗 LinkedIn: 
 
 
