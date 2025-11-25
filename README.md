@@ -1,48 +1,58 @@
 ## Heyy👋🏻, I'm Vighnesh Maripeddi  
 ### Aspiring Data Analyst | BSc IT Student | Beginner in Machine Learning  
 
-I’m a final-year BSc IT student passionate about turning raw data into meaningful insights and helping businesses make data-driven decisions.
-I enjoy working with Power BI, Excel, SQL, and Python, and I’m actively building my skills in Machine Learning and advanced analytics.
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Analyst%20Learner-Blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/BSc%20IT%20Student-Green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Working%20With%20Real%20Data-Orange?style=for-the-badge" /> </p>
 
-I believe in learning by doing, so I constantly work on dashboards, analytics projects, and small ML experiments to sharpen my skills.
+I’m an aspiring Data Analyst who believes in learning through real datasets, hands-on projects, and continuous improvement.
+Currently exploring how data can answer business questions using Python, SQL, and Power BI.
 
-I’m currently improving my skills in Python, SQL, Excel, and Power BI, and I prefer learning by doing end-to-end projects — from data cleaning to visualization.
+I focus on end-to-end workflows:
+✔️ Cleaning & preprocessing • ✔️ SQL analysis • ✔️ Visual dashboards • ✔️ Insight storytelling
 
-My work includes projects like an HR Analytics Dashboard and a Customer Behavior Analysis (Python + SQL + Power BI).
-I aim to continue building more real data projects to deepen my understanding of analytics and data-driven decision making.
+🧑‍💻 Tech Stack & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" /> </p>
+📌 Featured Projects
+🔹 HR Analytics Dashboard
 
----
+Tech: Power BI
+Focus: Employee attrition, performance insights, demographics
+📊 Designed using real HR data to find patterns and help leadership make decisions.
 
-## Skills :-
-- **Data Analytics:** Power BI (Dashboards), Excel  
-- **Programming:** Python (basics), SQL (queries, joins)  
-- **Machine Learning:** Understanding of Supervised & Unsupervised Learning  
-- **Concepts:** Data cleaning, EDA, data visualization  
+Preview:
+(Add your project image here)
 
----
+![HR Dashboard]()
 
-## Tools I Use:-  
-Power BI • Python • SQL • Excel • Jupyter Notebook • VS Code  
+🔹 Customer Behavior Analysis (Coming Soon)
 
----
+Tech: Python → SQL → Power BI
 
-## Projects:-
-- Power BI Dashboards   
-- ML Learning Notes (coming soon)  
+Cleaned raw customer data using Jupyter Notebook
 
----
+Analyzed patterns (purchase behavior, retention, segments) using SQL
 
-## Current Focus:- 
-- Improving Python for ML  
-- Learning DAX & Power Query  
-- Building more dashboards  
-- Practicing ML algorithms like Regression & Clustering  
+Final dashboard built in Power BI
 
----
+Preview:
+(Add your project image here)
 
-## Contact:-  
-- **Email:** your email  
-- **LinkedIn:**  
+![Customer Dashboard]()
 
+📚 Currently Learning
+
+Strengthening Python for analysis
+
+SQL (joins, CTEs, window functions)
+
+Power BI (DAX, Data modeling, Power Query)
+
+ML Basics → Supervised & Unsupervised learning
+
+✨ GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=vighnesh-maripeddi&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-maripeddi&theme=tokyonight" /> </p>
+📬 Connect With Me
+
+📧 Email: add-your-email
+🔗 LinkedIn: add-your-link
 
 
