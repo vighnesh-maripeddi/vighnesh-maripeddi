@@ -14,28 +14,31 @@ I focus on end-to-end workflows:
 📌 Featured Projects
 🔹 HR Analytics Dashboard
 
+Preview:
 Tech: Power BI
 Focus: Employee attrition, performance insights, demographics
 📊 Designed using real HR data to find patterns and help leadership make decisions.
 
-Preview:
-
 ![HR Dashboard]()
 
-🔹 Customer Behavior Analysis (Coming Soon)
+Tech: Power BI
+Focus: Employee attrition, performance insights, demographics
+📊 Designed using real HR data to find patterns and help leadership make decisions.
 
-Tech: Python → SQL → Power BI
 
-Cleaned raw customer data in Excel
+🔹Customer Behavior Dashboard
 
-Analyzed patterns 
+![Customer Dashboard]()
+
+Cleaned raw customer data using Jupyter Notebook
+
+Analyzed patterns (purchase behavior, retention, segments) using SQL
 
 Final dashboard built in Power BI
 
 Preview:
 (Add your project image here)
 
-![Customer Dashboard]()
 
 📚 Currently Learning
 
