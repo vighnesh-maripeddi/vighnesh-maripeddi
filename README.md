@@ -10,7 +10,6 @@ My work includes projects like an HR Analytics Dashboard and a Customer Behavior
 I aim to continue building more real data projects to deepen my understanding of analytics and data-driven decision making.
 
 
-
 <br>
 
 I focus on end-to-end workflows:
