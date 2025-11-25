@@ -19,7 +19,6 @@ Focus: Employee attrition, performance insights, demographics
 📊 Designed using real HR data to find patterns and help leadership make decisions.
 
 Preview:
-(Add your project image here)
 
 ![HR Dashboard]()
 
@@ -27,9 +26,9 @@ Preview:
 
 Tech: Python → SQL → Power BI
 
-Cleaned raw customer data using Jupyter Notebook
+Cleaned raw customer data in Excel
 
-Analyzed patterns (purchase behavior, retention, segments) using SQL
+Analyzed patterns 
 
 Final dashboard built in Power BI
 
@@ -48,8 +47,6 @@ Power BI (DAX, Data modeling, Power Query)
 
 ML Basics → Supervised & Unsupervised learning
 
-✨ GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=vighnesh-maripeddi&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh-maripeddi&theme=tokyonight" /> </p>
 📬 Connect With Me
 
 📧 Email: add-your-email
