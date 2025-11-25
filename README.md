@@ -9,7 +9,7 @@ I’m currently improving my skills in Python, SQL, Excel, and Power BI, and I p
 My work includes projects like an HR Analytics Dashboard and a Customer Behavior Analysis (Python + SQL + Power BI).
 I aim to continue building more real data projects to deepen my understanding of analytics and data-driven decision making.
 
-<p align="center"> <img src="https://img.shields.io/badge/Data%20Analyst%20Learner-Cyan?style=for-the-badge" /> <img src="https://img.shields.io/badge/BSc%20IT%20Student-Green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Working%20With%20Real%20Data-Purple?style=for-the-badge" /> </p>
+
 
 <br>
 
