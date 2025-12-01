@@ -71,6 +71,6 @@ ML Basics → Supervised & Unsupervised learning
 
 📧 Email: maripeddivighnesh@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/vighnesh-maripeddi-29918b280/?trk=opento_sprofile_details
 
 
