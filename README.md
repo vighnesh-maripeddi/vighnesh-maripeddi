@@ -1,4 +1,4 @@
-## Heyy👋🏻, I'm Vighnesh Maripeddi  
+## Heyy, I'm Vighnesh Maripeddi  
 ### Aspiring Data Analyst | BSc IT Student | Beginner in Machine Learning  
 
 I’m a BSc IT student focused on becoming a strong Data Analyst by learning through real-world datasets and practical projects.
